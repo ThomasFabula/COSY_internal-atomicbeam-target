@@ -1,0 +1,12 @@
+Kurzbeschreibung des Projektvorhabens
+
+Für den Einsatz in der Mittelenergieforschung soll unter Anwendung von Laserlicht ein polarisiertes, 
+internes Atomstrahltarget für das Speicher- und Kühlersynchrotron COSY (Jülich) entwickelt und aufgebaut werden.
+Im Rahmen dieses Forschungsvorhabens soll neben den durchzuführenden theoretischen Untersuchungen der beim 
+Atomstrahltarget erreichbaren physikalischen Grenzen der experimentelle Aufbau und die weitere Optimierung 
+der Atomstrahltechnik und Lasermanipulation von Atomstrahlen ermöglicht werden. Die Ausnutzung von resonanten 
+Lichtdruckkräften erlaubt die für interne Atomstrahltargets notwendige Erhöhung der Strahldichten und einen 
+hohen Polarisationsgrad des Atomstrahls. Durch Kombination von transversalem Atomstrahlkühlen sowie der 
+Anwendung von Lichtfeldern mit inhomogenen Feldgradienten (Dipolkraft) soll der Atomstrahl weiter im 
+Phasen- und Ortsraum komprimiert werden. 
+
