@@ -1,0 +1,12 @@
+Brief description of the project
+
+For use in medium-energy research, a polarized, internal atom beam target for the COSY storage and cooling synchrotron (Jülich) 
+is to be developed and constructed using laser light. In addition to the theoretical investigations to be carried out, this 
+research project aims to enable the experimental setup and further optimization of the atomic beam technology and laser 
+manipulation of atomic beams. The use of resonant light pressure forces allows the increase in beam densities required for 
+internal atomic beam targets and a high degree of polarization of the atomic beam. The combination of transverse 
+atomic beam cooling and laser manipulation of atomic beams is a promising approach for the development of internal 
+atomic beam targets. Light pressure forces allows the beam densities required for internal atomic beam targets to be 
+increased and a high degree of polarization of the atomic beam to be achieved. By combining transverse atomic beam 
+cooling and the application of light fields with inhomogeneous field gradients (dipole force), the atomic beam is 
+to be further compressed in phase and space.
