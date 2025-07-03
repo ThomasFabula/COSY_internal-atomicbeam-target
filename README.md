@@ -15,6 +15,9 @@ COSY (CO_oler SY_nchrotron): Der Beschleuniger am Standort Jülich
 ### Kühlersynchrotron COSY
 Das Kühlersynchrotron COSY am Institut für Kernphysik des Forschungszentrums Jülich stellt für Zwecke der Grundlagenforschung polarisierte oder unpolarisierte Protonenstrahlen im Energiebereich zwischen 45 und 2700 MeV zur Verfügung. Alternativ stehen Deuteronenstrahlen zwischen 75 und 2100 MeV zur Verfügung. Die Teilchenstrahlen können bei Bedarf gekühlt werden, um die Strahlqualität zu erhöhen.
 
+### The acclerator in Jülich
+The COoler SYnchrtron COSY at the Institute for Nuclear Physics at Reserach Center Jülich provides polarized and unpolarized proton beams in the energy range between 45 and 2700 MeV for basics science experiments. Alternatively, it can provide deuteron beams between 90 and 2100 MeV. The particle beam can be cooled if required to improve beam quality.
+
 ## Further information
 - https://onlinelibrary.wiley.com/doi/10.1002/phbl.19930491208
 - https://nachrichten.idw-online.de/2023/07/13/suche-nach-dunkler-materie-in-juelich
