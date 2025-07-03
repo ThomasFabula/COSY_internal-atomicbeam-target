@@ -1,0 +1,212 @@
+Internes Atomstrahl-Target 
+
+1.	Vorhabenbeschreibung
+
+1.1	Gesamtziel des Vorhabens:
+
+Seit ca. einem Jahr befindet sich an der Kernforschungsanlage (KFA) in Jülich das Speicher- und Kühlersynchrotron COSY im Aufbau. 
+Dank der vorgesehenen Phasenraumkühlung durch stochastisches Kühlen bzw. einen Elektronenkühler eignet sich dieser Ring hervorragend 
+für Experimente an relativ dünnen internen Targets, bei denen die Aufheizung im Target durch die Kühlleistung wieder kompensiert 
+werden kann. Damit lassen sich wegen des immer wieder umlaufenden Projektilstromes auch bei dünnen Targets relativ große 
+Luminositäten (= Targetdicke  Strahlstrom) erreichen.
+
+Neben z.B. Clusterstrahlen, Gasjets und Fibertargets sind hier besonders Atomstrahltargets von großem Interesse, da sie sich 
+hochgradig polarisieren lassen und somit ganz neue Experimentiermöglichkeiten eröffnen. Ziel dieses Forschungsvorhabens ist der
+Aufbau eines solchen internen polarisierten Atomstrahltargets für COSY. Sowohl für die Polarisation als auch zur Erhöhung der 
+Targetdicke (um mehrere Größenordnungen) soll ein Lasersystem verwandt werden. 
+
+In der ersten Phase des Projekts sollen experimentelle Teilprobleme wie z.B. Güte der erreichbaren Polarisation und Dichteerhöhung 
+eines Natrium-Atomstrahls mittels Laserlicht untersucht und optimiert werden. In der zweiten Phase soll dann ein Prototyp eines 
+solchen Targets in Hochvakuumtechnik erstellt werden. Beide Phasen sollen im Institut für Angewandte Physik der Universität Bonn 
+durchgeführt werden.
+
+In der dritten Phase soll in enger Zusammenarbeit mit der KFA Jülich und anderen Arbeitsgruppen, die ein internes Target bauen, 
+ein internes, polarisiertes Atomstrahltarget an COSY in UHV-Technik (Ultrahoch-Vakuum) aufgebaut werden. Als erstes Target soll 
+ein 23Na-Strahl verwendet werden. Weitere Targets wie z.B. 6Li, 7Li, 39K, 85Rb, 87Rb, 133Cs können dann je nach Bedarf in 
+gleicher Technik verwirklicht werden; es muß hierfür in der Regel nur das Lasersystem modifiziert werden.
+
+
+1.2.	Bezug des Vorhabens zu den förderungspolitischen Zielen der Förderungsprogramme:
+
+Das beantragte Vorhaben gehört zu den Arbeiten, die der Vorbereitung und Ergänzung der Experimente an dem Großgerät COSY der
+KFA Jülich dienen. Das Ergebnis dieses Vorhabens, ein Target des COSY-Speicherrings, ist somit für experimentelle Arbeiten auf 
+dem Gebiet der Kernphysik gedacht und entspricht somit dem Punkt 2. - Förderung von Anträgen auf dem Gebiet der Physik der 
+Hadronen und Kerne - des Schreibens des BMFT vom 7.9.1987 an alle wissenschaftlichen Hochschulen in der Bundesrepublik 
+Deutschland zum Förderprogramm 1989 - 1991/1992 auf dem Gebiet der naturwissenschaftlichen Grundlagenforschung.
+
+
+1.3	Wissenschaftliche und technische Arbeitsziele des Vorhabens:
+
+Das hier beantragte Vorhaben ist Teil der Grundlagenforschung zur Mittelenergiekernphysik am Speicherring COSY der KFA Jülich. 
+Somit dienen die wissenschaftlichen Ziele dieses Vorhabens der Beantwortung der Fragestellungen, die sich mit COSY untersuchen 
+lassen und in zahlreichen Gesprächen und Arbeitstreffen (*Jül.-Spez.-370,S.1) von CANU (COSY-Arbeitsgemeinschaft 
+Nordrhein-Westfälischer Universitäten) diskutiert wurden. Es sollen an dieser Stelle daher nur noch einmal die 
+Besonderheiten eines polarisierten, internen Atomstrahltargets aus dieser Sicht beleuchtet werden.
+
+Der COSY-Ring eignet sich zum Kühlen und Speichern auch polarisierter Teilchenstrahlen (p, d, 6,7Li,...). Durch die Kühlung 
+können außer den Experimenten an dem externen COSY-Strahl auch Experimente an internen Targets durchgeführt werden, wenn sie 
+hinreichend dünn sind, so daß die targetbedingte Aufheizung durch die Kühlung wieder genügend kompensiert werden kann. Damit 
+wird die Anwendung interner, polarisierter Atomstrahltargets mit ihrer vergleichsweise schwachen Intensität möglich. Ihre Dichte 
+ist hoch genug, um zusammen mit dem gespeicherten, vielfach umlaufenden Strahl ähnliche Luminositäten wie bei konventionellen 
+Targets zu erzielen. Die Richtung und das Vorzeichen der Polarisation lassen sich in weiten Bereichen variieren und relativ 
+schnell umschalten. Damit wird der Messung von Polarisationsobservablen und der Realisierung sog. "vollständiger Experimente" 
+zum Test fundamentaler Symmetrien (Paritätserhaltung, Zeitumkehr, Ladungssymmetrie etc.) in der Nukleon-Kern-Wechselwirkung 
+eine wesentliche Basis geschaffen.
+
+Diesen Möglichkeiten kommt den Experimenten an COSY besondere Bedeutung dadurch zu, daß COSY in einem Energiebereich arbeiten 
+kann (150 - 500 MeV), in dem besonders die Anteile der effektiven Wechselwirkung zwischen Projektil und Targetnukleon beitragen, 
+die Aussagen über die Struktur des Targetkerns machen. Für die Trennung dieser Anteile vom reinen Kernreaktionsmechanismus ist 
+die Kenntnis der Polarisationen von Target und Projektil sehr wesentlich, man erhält so z.B. die Möglichkeit, die Spinverteilung
+im Kern zu bestimmen. Insbesondere läßt sich der longitudinale Anteil der Spinverteilung messen.
+
+Auch die Fragestellung, wie sich Vielbaryonensysteme bei höheren Energien (COSY ¾ 2.5 GeV/A) verhalten, sind in Bezug auf die
+Nukleon-Nukleon-Streuung und die mögliche Strangeness-Produktion bei der Verwendung interner Atomstrahltargets interessant.
+Abgesehen von diesen "rein" kernphysikalischen Vorteilen eines polarisierten, internen Targets bietet der hier vorgeschlagene 
+und beantragte Aufbau eines Atomstrahltargets zusätzlich sehr interessante Aspekte, die in den Bereich Teilchenstrahlung freier
+Atome fallen (Punkt 3.1. des Förderprogramms); die Dichte in dem geplanten Atomstrahltarget wird etwa ein bis zwei Größenordnungen 
+höher als in effusiven Atomstrahlen höchster Dichte sein. Hierdurch werden auch quantenoptische Fragen, wie z.B. radiation 
+trapping, aufgerufen, die von großem physikalischen Interesse sind.
+
+Die technischen Arbeitsziele gliedern sich wie folgt:
+1.)	Klärung experimenteller Einzelfragen, wie z.B. Auswirkung der Absorption und Fluoreszenz im relativ dichten Atomstrahl auf 
+  den Grad an erreichbarer Polarisation (s. Punkt 1.7 dieser Beschreibung).
+2.)	Entwicklung und Optimierung einer Prototypapparatur, bei der sich das Target noch in einer Hochvakuumapparatur befindet.
+3.)	Konzipierung und Aufbau eines in COSY einbaufähigen Natriumatomstrahltargets 
+
+Ausgehend von den Erfahrungen, die mit dem Na-Atomstrahltarget gemacht werden, lassen sich auch interne polarisierte Targets 
+von Lithium, Kalium, Rubidium und Cäsium aufbauen (s. Punkt 1.7 dieser Beschreibung).
+
+
+1.4	Erfolgsaussichten:
+Das geplante Atomstrahltarget gliedert sich im wesentlichen in zwei Bereiche:
+	1.)	Die Atomstrahlapparatur mit Ofen und Vakuumsystem, das in der endgültigen Ausbaustufe in UHV-Technik ausgeführt sein wird, und
+	2.)	das Farbstofflasersystem für das optische Pumpen zur Hüllen- und Kernpolarisation sowie für die Dichteerhöhung des Atomstrahls.
+Im beantragenden Institut (Institut für Angewandte Physik der Universität Bonn) existiert eine über zwanzigjährige Erfahrung im Bau 
+von Vakuumapparaturen und Atomstrahlquellen verschiedenster Technologie, - die Antragsteller haben selber auf diesem Gebiet jahrelange 
+Erfahrung. Damit dürfte das Konzept und der Aufbau des Höchstfluß-Atomstrahlofens für Alkalimetalle (s. Punkt 1.7) kein unüberwindbares 
+technologisches Problem darstellen. Eine Arbeitsgruppe des Instituts, die sich mit der Laserkühlung von Atomstrahlen beschäftigt, 
+verfügt auch über das personelle Potential, diese Aufgabe zu lösen.
+
+Seit der ersten Einführung von durchstimmbaren Dauerstrich-Farbstofflasern in der Atomspektroskopie ist an diesem Institut die 
+Entwicklung, der eigene Aufbau und der Einsatz solcher Lasersysteme in den verschiedensten Bereichen der Laserspektroskopie und
+Quantenoptik Praxis und Grundlage der Forschung.
+
+Somit stehen ausreichende personelle und fachliche Kapazitäten für die erfolgreiche Durchführung des Vorhabens zur Verfügung
+(s. auch Punkt 1.7 und Punkt 2).
+
+
+1.5	Stand der Wissenschaft und Technik, alternative Lösungen, Literaturangaben:
+
+Als interne Targets für moderne Beschleuniger- bzw. Speicherringe wie COSY kommen im Prinzip verschiedene Target-technologien 
+in Frage (s. [JÜL87]). Hierbei handelt es sich vorzugsweise wie bereits erwähnt um Gas-Jet-, Cluster- oder Staubtargets [MEY85] 
+mit relativ hohen Teilchendichten (> 1015 cm-3) im Vergleich zu den konventionellen Atomstrahltargets (ca. < 109-1010 cm-3) 
+(s. [BAR73], [OBE79], [JÜL87]). Andererseits ermöglichen Atomstrahltargets die experimentell sehr wichtige Eigenschaft der 
+Targetpolarisation, so daß selbst ein rein effusiver Atomstrahl mit seiner relativ geringen Targetdicke und damit geringen 
+Luminosität als polarisiertes Target schon interessant ist. 
+
+Die jedoch wünschenswerten höheren Targetdichten werden durch den Einsatz von Laserlicht und den resultierenden 
+Strahlungsdruckkräften ermöglicht [BAL84]. Dieses Laserlicht produziert ebenfalls den hohen Grad an Hüllen- und Kernpolarisation
+(= 90%) (s. [AND83], [CUS82]). Ein weiterer Vorteil bei lasermanipulierten Atomstrahltargets ist darin zu sehen, daß die 
+Atomstrahlparameter in weiten Bereichen variierbar und genau einstellbar sind. 
+
+So ist der Polarisationszustand (Besetzung der magnetischen  Hyperfeinzustände mF) frei wählbar. Dreves et al. [DRE82] zeigten
+für Natrium, daß mit Hilfe HF-(Hochfrequenz)-induzierter Schwachfeld-Übergängen (Weak-Field-Transitions) beliebige mF-Unterzustände
+bevölkert werden können.
+
+Die Besetzungswahrscheinlichkeit dieser mF-Unterzustände, und damit die Polarisation, lassen sich mit Hilfe laser-induzierter
+Fluoreszenz-Messungen (LIF) im Magnetfeld ermitteln [JÄN84]. Durch Führungsmagnetfelder ist eine beliebige Drehung der 
+Polarisationsebene möglich.
+
+Die Polarisation der Atomstrahlen läßt sich mit Hilfe des optischen Pumpens mit zirkular polarisiertem Laserlicht erreichen. 
+Die hierzu benötigten Laserleistungen und Wellenlängen bewegen sich in Bereichen, die mit heutigen Farbstofflasersystemen 
+(in eingeschränktem Maße gilt dies auch für Diodenlaser) erreichbar sind. Theoretische Berechnungen [THO82] ergeben, daß
+für eine Targetdicke (nl = Dichte  Strahldurchmesser ) von nl = 1015 cm-2 eine Laserleistung PL von etwa 1 W benötigt wird.
+Die hierzu durchgeführten Experimente [PAP81] in einer Gaszelle haben gezeigt, daß sich die Elemente 7Li (P = 99%) und 23Na (P = 90%)
+fast vollständig polarisieren lassen. 
+
+Watts et al. [WAT86] demonstrierten an einem hochpolarisierten Cäsium-Atomstrahl, daß sich bei einem Teilchenfluß von ca. 1014 Atome/s 
+ein Polarisationsgrad von über 98% erreichen ließ. 
+Die erforderliche Anzahl von Absorptions- und Emissionszyklen bewegt sich, wie eigene Modellrechnungen zeigen, für die Alkalimetalle 
+in der Größenordnung von 10-20 Zyklen. Wie vorher bereits angedeutet, lassen sich mit einer solchen Apparatur verschiedene Elemente 
+(hauptsächlich Alkalien) als Targetkerne verwenden. Für Cäsium (wie auch für Rubidium) liegen die Wellenlängen (s. Tabelle 1) bereits
+im Bereich heute kommerziell verfügbarer Diodenlaser. Die für 133Cs benötigte Leistung an zirkular-polarisiertem Laserlicht beträgt
+bei einer mittleren Atomstrahldichte von ca. 1010 cm-3 lediglich 10mW [WAT86].
+
+Neben der Polarisation von Hülle und Kern kommt der Kollimation und Kompression des Atomstrahls durch eingestrahltes Laserlicht
+eine besondere Bedeutung zu, gestattet sie doch eine Erhöhung der Dichte des ursprünglich effusiven Strahls um mehrere Größenordnungen.
+Dies wird durch Techniken der Laserkühlung von Atomstrahlen erreicht. Hierbei unterscheidet man zwischen dem Kühlen oder Manipulieren 
+der longitudinalen bzw. transversalen Geschwindigkeitskomponenten im Atomstrahl und der weiteren Dichteerhöhung des Atomstrahls im 
+Ortsraum in geeigneten, intensiven Laserfeldern. 
+
+Das longitudinale Kühlen sowie die Reduktion der mittleren Geschwindigkeit bis hinunter in den mK-Bereich eines Na-Atomstrahls ist
+heutiger Stand der Technik. Ausgefeilte Lasermodulationstechniken (Elektro- und Akusto-optische HF-Modulation) erlauben es, die 
+mittlere Endgeschwindigkeiten ve der Atome in einem weiten Bereich, inkl. ve = 0, zu variieren [ERT87]. 
+
+Die Verminderung der transversalen Geschwindigkeitskomponenten wurde ebenfalls bereits von mehreren Gruppen gezeigt und nachgewiesen. 
+Hierbei wurde in ersten Experimenten transversal auf den Atomstrahl gerichtetes, resonantes Laserlicht verwandt. Balykin et al. [BAL85]
+gelang es mit verhältnismäßig geringen Laserleistungen (PL = 45 mW) die ursprünglichen Transversalgeschwindigkeiten um den Faktor 3 zu 
+erniedrigen. 
+
+Der Kühlmechanismus bzw. die Reduktion der transversalen Breite der Geschwindigkeitsverteilung läßt sich folgendermaßen erklären
+(eindimensionales Bild, Details s. Punkt 1.7):
+Wird ein Laserstrahl in der Frequenz rot verschoben (Laserfrequenz kleiner als die Ruhe-Resonanzfrequenz der Atome), so ist er 
+resonant mit Atomen, die sich auf ihn zubewegen, bzw. nicht resonant für Atome, die sich in Lichtstrahlrichtung bewegen. Somit 
+werden die Atome im ersten Fall mehr Laserphotonen absorbieren (und wieder spontan emittieren) als im zweiten Fall. Verwendet man
+zwei gegenläufige Strahlen, so wechselwirkt der jeweils gegenläufige Laserstrahl häufiger mit den Atomen als der mitlaufende. 
+Mit jeder Absorption ist aber auch der Übertrag eines Photonenimpulses verbunden, so daß wegen des Ungleichgewichts in der 
+Absorptionswahrscheinlichkeit für mit- und gegenläufiges Laserlicht die Bewegung aller Atome gedämpft wird. Der Erwartungswert 
+der Impulsüberträge aus den spontanen Emissionen mittelt sich zeitlich wegen der Symmetrie der zufälligen Emissionsrichtungen zu Null.
+Im Falle von Natrium und Na-D-Laserlicht beträgt die mittlere Geschwindigkeitsänderung pro Absorptions- und Emmissionszyklus etwa 3 cm/s.
+
+Dieses Bild, das nicht mehr bei sehr hoher Sättigung des Übergangs gültig ist, läßt sich durch entsprechende experimentelle bzw.
+optische Systeme auf zwei Dimensionen erweitern. Dies hat zur Folge, daß man einen divergierenden Atomstrahl durch die transversale 
+Kühlung kollimieren kann (s. Bild 1). 
+
+
+		Bild 1: Kollimation durch transversale Kühlung
+
+Hinter dieser Kollimationszone hat der Atomstrahl nur noch eine transversale Geschwindigkeit von ca. 1 m/s. Das hat zur Folge, daß 
+man die Atomstrahldichte, die direkt am Tiegelausgang vorhanden ist, in die Targetregion transformieren kann ohne den üblichen
+r2-Verlust bei normal divergierenden Strahl in Kauf nehmen zu müssen (s. Bild 2). 
+
+
+
+
+		Bild 2: Kollimationsgewinn in der Targetregion
+
+Dies bedeutet eine mögliche Erhöhung an Dichte im Targetbereich um mehrere Größenordnungen (Einzelheiten s. Punkt 1.7 dieser Beschreibung). 
+Dieses transversale Kühlen (Phasenraumkühlen) läßt sich auch, anders als im erläuterten Fall durch blau verstimmtes Laserlicht in einer
+sehr intensiven Stehwelle (z.B. 1000-fache Sättigungsleistung) erreichen (s. Bild 3). Hierbei wird nicht die resonante Streuung von 
+Photonen, wie im obigen Fall, zur Kühlung verwandt, sondern die stimulierte Umverteilung der Photonen zwischen den beiden Komponenten
+des Stehwellenfeldes
+. Somit (s. z.B. [ASP86]) wird auch hier die Bewegung "gegen die Stehwelle" gedämpft ("Stimuliertes Kühlen"). Dieses Verfahren des 
+stimulierten Kühlens von Atomstrahlen mit Stehwellenfeldern, vorgeschlagen von J.Dalibard und C.Cohen-Tannoudji, ist inzwischen 
+erfolgreich experimentell verifiziert worden. Es eignet sich für die Kollimation besonders gut, da hier die Atome je nach Bedingung 
+(s. Punkt 1.7) bei großer Laserverstimmung gegenüber der Resonanzfrequenz gekühlt werden, so daß mögliche Absorptionsprobleme (s.u.) 
+erheblich geringer werden.
+
+Auch dieses Verfahren funktioniert einwandfrei; Aspect et al. [ASP86] wiesen für einen Cs-Atomstrahl mit einem Fluß von 2.2109 Atome/s 
+und einer Laserverstimmung von +30 MHz eine Verminderung der Transversalgeschwindigkeit um den Faktor 5 nach. Hierbei genügten 
+Laserleistungen von 70 mW bei der für Cs erforderlichen Kühlwellenlänge von 852 nm.
+
+Die maximal abbremsbare Transversalgeschwindigkeit ist abhängig von der Variation der Rabi-Oszillationsfrequenz quer zur Stehwelle
+(s. Punkt 1.7) und somit von der eingekoppelten Laserleistung und der verwendeten Frequenzverstimmung. Der gleichen Forschergruppe 
+gelang es, das sog. 'Channeling' der Atome im Stehwellenfeld nachzuweisen. Hierbei bewegen sich die Atome bei genügend kleinen 
+Transversalgeschwindigkeiten zwischen den Stehwellenmaxima (in den Knotenebenen), werden dort entlang geleitet und verlieren an 
+transversalem Impuls [SAL87]. Diese neue Art, bei positiver Frequenzverstimmung transversal zu kühlen, ist weitaus effizienter 
+als das "normale Streukraftkühlen", da diese "stimulierten" Kräfte (Dipolkräfte) je nach Laserleistung und Laserverstimmung um 
+ein bis zwei Größenordnungen größer als im obigen Fall sein können. Die Anwendung solcher geschwindigkeitsabhängiger stimulierter 
+Lichtkräfte bietet sich so ebenfalls für die Erhöhung der Atomstrahldichte an. 
+
+Das bei allen Verfahren auftretende experimentelle Problem des optischen Pumpens aufgrund des aufgespaltenen Grundzustands der 
+Alkalimetalle (s. Tabelle 1) stellt jedoch keine Schwierigkeiten dar, denn durch Einstrahlung von zirkular polarisiertem Licht und der 
+Überlagerung eines schwachen Magnetfeldes (hierzu reichen bereits B = 10 G), schafft man ein künstliches Zwei-Niveau-System [DRE83].
+
+Somit existiert die berechtigte Hoffnung, mit Hilfe von Laserlicht ein Atomstrahltarget bauen zu können, das den größten Nachteil 
+eines Atomstrahltargets - die geringe Dichte - vermeidet, andererseits aber den enormen experimentellen Vorteil der Polarisation 
+ermöglicht. Ein solches Target stellt somit eine echte Alternative und Ergänzung zu anderen internen Targets dar.
+ 
+	Literaturangaben:  (zum Stand der Forschung und Technik)
+
+
+
