@@ -1,0 +1,40 @@
+Literaturangaben:  
+(zum Stand der Forschung und Technik)
+
+
+[AND83] : Anderson,L.W.: AIP Conference Proceedings, Polarized Ion Sources (Vancouver 1983)
+	
+[ASP86] : Aspect,A.,Dalibard,J.,Heidmann,A.,Salomon,C., Cohen-Tannoudji,C.: Phys.Rev.Lett., 57, 14, 1688 (1986)
+	
+[BAL84a] : Balykin,V.I.,Letokhov,V.S.,Minogin,V.G.: PZETF, 40, No. 6, 251-253 (1984)
+
+[BAL84b] : Balykin,V.I.,Letokhov,V.S.,Minogin,V.G.,Zueva, T.V.: Appl.Phys.B 35, 149, 153 (1984)
+	
+[BAL85] : Balykin,V.I.,Letokhov,V.S.,Minogin,V.G., Rozhdestvensky,Yu.V.,Sidorov,A.I.: J.Opt. Soc. Am.B, Vol 2, 11, 1776 (1985)
+
+[BAR73] : Bartenev,V.D:Sov.J.Nucl.Phys.16,50 (1973) 
+
+[CUS82] : Cusma,J.T.,Swenson,D.R.,Anderson,L.W.,in 'Lasers in Nuclear Physics' ed. by Bemis Jr.,C.E., Carter,H.K., Oak Ridge, Tennessee (1982) 
+
+[DRE82] : Dreves,W.,Koch,E.,Jänsch,H.,Kamke,W.,Broermann, W.,Fick,D., in 'Lasers in Nuclear Physics' ed. by Bemis Jr.,C.E., Carter,H.K., Oak Ridge, Tennessee, 1982
+
+[DRE83] : Dreves,W.,Jänsch,H.,Koch,E.,Fick,D.: Phys.Rev.Lett. 50, 22, 1759 (1983)
+
+[ERT87] : Ertmer,W.: Phys.Bl.43,(1987), Nr.10
+
+[JÄN84] : Jänsch,H.,Koch,E.,Dreves,W.,Fick,D.: Phys.D: Appl.Phys., 17 (1984) 231 - 237 
+	
+[JÜL87] : Jül-Spez-409, Workshop on Internal Targets for COSY, Jülich, April (1987)
+
+[MEY85] : Meyer,H.O.: CEBAF Workshop, Newport News (1985)
+
+[OBE79] : Obert,W.: Rarefied Gas Dynamics 11th Symposion, Cannes 1978, R.Camargue ed. (CEA, Paris,1979), 1181
+
+[PAP81] : Pappas,P.G.,Forber,R.A.,Quivers Jr.,W.W.,Dasari, R.R.,Feld,M.S.,Murnick,D.E.: Phys.Rev.Lett 47, 236 (1981)
+
+[SAL87] : Salomon,C.,Dalibard,J.,Aspect,A.,Metcalf,H., Cohen-Tannoudji,C.: Phys.Rev.Lett., 59, 14, 1659 (1987)
+
+[THO82] : Thomas,J.E.,Feld,M.S.,in 'Lasers in Nuclear Physics' ed. by Bemis Jr.,C.E., Carter,H.K., Oak Ridge, Tennessee (1982)
+
+[WAT86] : Watts,R.N.,Wiemann,C.E.: Optics Commun., Vol.57, 1, 45 (1986)
+ 
