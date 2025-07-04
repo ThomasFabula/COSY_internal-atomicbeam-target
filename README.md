@@ -1,7 +1,7 @@
 # COSY_internal-atomicbeam-target
 
 ## Proposal IAP Univ of Bonn 
-Antrags-Proposal 
+Antrags-Proposal für BMFT-Antrag 
 - internes Atomstrahltarget für das Speicher- und Kühlersynchrotron COSY (Jülich) 
 - Institut für Angewandte Physik der Universität Bonn
 - https://www.iap.uni-bonn.de/en
