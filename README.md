@@ -19,7 +19,7 @@ oder unpolarisierte Protonenstrahlen im Energiebereich zwischen 45 und 2700 MeV 
 
 ### The accelerator in Jülich
 The COoler SYnchrotron COSY at the Institute for Nuclear Physics at Reserach Center Jülich provides polarized and unpolarized proton beams
-in the energy range between 45 and 2700 MeV for basics science experiments. Alternatively, it can provide deuteron beams between 90 and 
+in the energy range between 45 and 2700 MeV for basics science experiments. Alternatively, it can provide deuteron beams between 75 and 
 2100 MeV. The particle beam can be cooled if required to improve beam quality.
 
 ## Further information
