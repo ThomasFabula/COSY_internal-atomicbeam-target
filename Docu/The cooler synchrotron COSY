@@ -1,0 +1,14 @@
+@article{BECHSTEDT199626,
+title = {The cooler synchrotron COSY in JÃ¼lich},
+journal = {Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms},
+volume = {113},
+number = {1},
+pages = {26-29},
+year = {1996},
+note = {Accelerators in Applied Research and Technology},
+issn = {0168-583X},
+doi = {https://doi.org/10.1016/0168-583X(95)01352-0},
+url = {https://www.sciencedirect.com/science/article/pii/0168583X95013520},
+author = {U. Bechstedt and J. Dietrich and R. Maier and S. Martin and D. Prasuhn and A. Schnase and H. Schneider and H. Stockhorst and R. TÃ¶lle},
+abstract = {COSY JÃ¼lich is a cooler synchrotron and storage ring with a proton momentum range from 270 to 3300 MeV/c. It has been conceived to deliver high precision beams for medium energy physics. To accomplish this goal two cooling systems are foreseen: an electron cooling system for the momentum range up to 645 MeV/c and a stochastic cooling system which covers the upper momentum range from 1500 to 3300 MeV/c. Proton beams in a wide momentum range have been delivered to internal as well as external experiments. The beam properties measured by these experiments and the main parameters of COSY are presented.}
+}
