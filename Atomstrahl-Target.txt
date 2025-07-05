@@ -79,8 +79,11 @@ von Lithium, Kalium, Rubidium und Cäsium aufbauen (s. Punkt 1.7 dieser Beschrei
 
 1.4	Erfolgsaussichten:
 Das geplante Atomstrahltarget gliedert sich im wesentlichen in zwei Bereiche:
+
 	1.)	Die Atomstrahlapparatur mit Ofen und Vakuumsystem, das in der endgültigen Ausbaustufe in UHV-Technik ausgeführt sein wird, und
+
 	2.)	das Farbstofflasersystem für das optische Pumpen zur Hüllen- und Kernpolarisation sowie für die Dichteerhöhung des Atomstrahls.
+
 Im beantragenden Institut (Institut für Angewandte Physik der Universität Bonn) existiert eine über zwanzigjährige Erfahrung im Bau 
 von Vakuumapparaturen und Atomstrahlquellen verschiedenster Technologie, - die Antragsteller haben selber auf diesem Gebiet jahrelange 
 Erfahrung. Damit dürfte das Konzept und der Aufbau des Höchstfluß-Atomstrahlofens für Alkalimetalle (s. Punkt 1.7) kein unüberwindbares 
@@ -206,7 +209,8 @@ Somit existiert die berechtigte Hoffnung, mit Hilfe von Laserlicht ein Atomstrah
 eines Atomstrahltargets - die geringe Dichte - vermeidet, andererseits aber den enormen experimentellen Vorteil der Polarisation 
 ermöglicht. Ein solches Target stellt somit eine echte Alternative und Ergänzung zu anderen internen Targets dar.
  
-	Literaturangaben:  (zum Stand der Forschung und Technik)
+	Literaturangaben:  (zum Stand der Forschung und Technik, siehe: Literaturangaben.txt)
+
 
 
 
