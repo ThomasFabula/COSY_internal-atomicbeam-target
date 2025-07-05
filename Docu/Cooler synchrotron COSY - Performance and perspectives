@@ -1,0 +1,14 @@
+@article{MAIER19971,
+title = {Cooler synchrotron COSY â€” Performance and perspectives},
+journal = {Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment},
+volume = {390},
+number = {1},
+pages = {1-8},
+year = {1997},
+issn = {0168-9002},
+doi = {https://doi.org/10.1016/S0168-9002(97)00324-0},
+url = {https://www.sciencedirect.com/science/article/pii/S0168900297003240},
+author = {R. Maier},
+keywords = {Accelerator, Cooler synchrotron, Electron cooling, Internal target, Stochastic extraction},
+abstract = {COSY is a cooler synchrotron and storage ring delivering protons with momenta between 300 MeV/c and 3300 GeV/c for experiments in medium energy physics. It contains two cooling systems to shrink the beam phase space. An electron-cooling system reaches up to a momentum of 600 MeV/c and is complemented by a stochastic cooling system that covers the upper range from 1500 to 3300 MeV/c. Beam extraction is accomplished by the conventional resonant extraction mechanism as well as with the stochastic extraction method. Proton beams are being delivered routinely to three internal and three external experimental areas.}
+}
