@@ -1,10 +1,32 @@
+INTRO
 The Cooler Synchrotron COSY was a particle accelerator and storage ring at the Forschungszentrum Jülich in Germany, 
 operated by the Institute for Nuclear Physics (IKP) from 1993 until October 2023. With a circumference of 184 meters, 
 it accelerated protons and deuterons to momenta between 270 MeV/c and 3.65 GeV/c for experiments in hadron, particle, 
 and nuclear physics. COSY was known for its beam cooling techniques—electron cooling up to 645 MeV/c and stochastic 
 cooling from 1.5 to 3.3 GeV/c—which ensured high-precision, well-ordered beams for medium-energy physics research.
 
-Key Features:
+Overview
+
+The Cooler Synchrotron COSY, located at Forschungszentrum Jülich in Germany, was a significant particle accelerator 
+used for scientific research. It ran from 1993 until its closure in October 2023, contributing to fields like 
+hadron physics and nuclear studies. Known for its innovative beam cooling methods, COSY enabled precise experiments 
+that advanced our understanding of subatomic structures. Today, it is no longer in operation, leaving a legacy 
+in scientific advancements.
+
+Technical Details
+
+COSY accelerated protons and deuterons, offering beams with energies from 45 to 2700 MeV for protons and 90 to 2100 
+MeV for deuterons. It employed electron cooling up to 645 MeV/c and stochastic cooling for higher momenta, ensuring 
+high-quality beams for experiments. The facility supported both internal experiments, with targets and detectors 
+within the ring, and external ones, where beams were extracted for use outside.
+
+Key Points
+- The Cooler Synchrotron COSY at Forschungszentrum Jülich in Germany operated from 1993 to October 2023, focusing on 
+hadron, particle, and nuclear physics.
+- It used advanced beam cooling techniques for high-precision experiments and supported both internal and external setups.
+- As of July 2025, COSY is no longer operational, having ceased activities in October 2023.
+
+Key Features
 - Particle Beams: Delivered polarized and unpolarized proton beams (45–2700 MeV) and deuteron beams (90–2100 MeV).
 - Cooling Systems: Used electron cooling for low momenta and stochastic cooling for higher momenta to reduce beam 
 divergence and enhance precision.
@@ -16,13 +38,19 @@ axion-like dark matter.
 - Injection: H⁻ or D⁻ ions were produced, accelerated by the JULIC cyclotron to 45 MeV, stripped to protons or
 deuterons via a carbon foil, and injected into COSY.
 
-Scientific Contributions:
+Scientific Contributions
+
 COSY enabled high-precision experiments probing the strong interaction, quark-gluon structures, and CP violation 
 through EDM measurements. It served as a unique "hadron microscope" for studying subatomic structures, offering 
 beam energies ideal for resolving proton and neutron components. The accelerator supported both internal experiments
 (target and detector within the ring) and external ones (beam extracted via resonant or stochastic methods).
 
-Closure and Legacy:
-COSY ceased operations in October 2023. Its experimental facilities, like ANKE, TOF, and WASA, were decommissioned, 
-but its contributions to hadron physics and accelerator technology development for projects like FAIR remain significant.
+Closure and Legacy
+
+Research indicates that COSY ceased operations in October 2023, a decision likely influenced by the shift towards 
+newer facilities like FAIR and resource allocation priorities. As of July 2025, it remains closed, with its 
+experimental setups, such as ANKE, TOF, and WASA, decommissioned. However, its impact endures through the scientific
+knowledge generated and the technological advancements it seeded, particularly for projects like the High Energy 
+Storage Ring (HESR) at FAIR.
+
 
