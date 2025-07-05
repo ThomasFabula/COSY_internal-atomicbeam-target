@@ -29,6 +29,9 @@ in the energy range between 45 and 2700 MeV for basics science experiments. Alte
 - https://www.osti.gov/etdeweb/biblio/5323027
 - https://cds.cern.ch/record/830974/?ln=de
 - https://www.weltderphysik.de/gebiet/teilchen/experimente/teilchenbeschleuniger/cosy/das-kuehlersynchrotron/
+- https://www.nuklearforum.ch/de/news/neuer-forschungsschwerpunkt-fuer-cosy/
+- https://pro-physik.de/nachrichten/neue-physik-mit-cosy-beschleuniger
+- 
 
  
 
