@@ -33,6 +33,7 @@ in the energy range between 45 and 2700 MeV for basics science experiments. Alte
 - https://pro-physik.de/nachrichten/neue-physik-mit-cosy-beschleuniger
 - https://www.spektrum.de/magazin/beschleuniger-cosy-fuer-praezise-protonenstrahlen/821515
 - https://www.sciencedirect.com/science/article/abs/pii/0168583X95013520
+- https://link.springer.com/chapter/10.1007/978-3-663-01748-6_3
 - 
 
  
