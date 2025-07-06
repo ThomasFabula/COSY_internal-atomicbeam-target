@@ -7,7 +7,7 @@ Antrags-Proposal für BMFT-Förderantrag
 - https://www.iap.uni-bonn.de/en
 
 ## COSY - Cooler Synchrotron
-COSY (CO_oler SY_nchrotron): Der Beschleuniger am Standort Jülich
+COSY (CO_oler SY_nchrotron): Der Beschleuniger am Standort Jülich in NRW
 - https://www.fz-juelich.de/de/ikp/forschung/beschleuniger/cosy
 - https://www.fz-juelich.de/en/ikp/research/accelerators/cosy
 - https://www.helmholtz.de/forschung/forschungsinfrastrukturen/beschleuniger/cosy-cooler-synchrotron/
