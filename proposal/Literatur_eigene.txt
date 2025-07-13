@@ -1,0 +1,24 @@
+Literaturangaben:  (zu eigenen Vorarbeiten)
+
+
+[BLA84]  Blatt,R.,Ertmer,W.,Hall,J.L.: Prog.Quant.Electr. 8, 237-248,(1984)
+
+[BLA86]  Blatt,R.,Ertmer,W.,Hall,J.L.,Zoller,P.: Phys.Rev.A34,3022,(1986)
+
+[CLO87a] Cloppenburg,K.,Hennig,G.,Nellessen,J.,Ertmer,W.: "Preparation of Cold Atoms for Precision Measurements", in "Fundamentals in Quantum Optics II", Springer-Verlag, Berlin, 1987
+
+[CLO87b] Cloppenburg,K.,Hennig,Mihm,A.,Wallis,H.,Ertmer,W.: "Optical Elements for Manipulating Atoms", in "Laserspectroscopy VIII", Springer-Verlag, Berlin, 1987
+
+[ERT83]  Ertmer,W.,Blatt,R.,Hall,J.L.: Laser Cooled and trapped Atoms, Proceedings of the Workshop at the NBS, USA, Boulder, 1983 
+
+[ERT85]  Ertmer,W.,Blatt,R.,Hall,J.,Zhu,M.:Phys.Rev.Lett.54, 996,(1985)
+
+[ERT86]  Ertmer,W.,Penselin,S.: Metrologia 22, 195,(1986)
+
+[ERT87a] Ertmer,W.: Phys.Bl.43,(1987),Nr.10
+
+[ERT87b] Ertmer,W.: Physica Scr. Vol.36,306-311,1987
+
+[ERT87c] Ertmer,W.,: "Internal Targets for COSY", a Workshop at the IKP of KFA-Jülich, April 1987
+
+[WAL88]  Wallis,H.,Ertmer,W.: submitted to Journal Phys.B.
