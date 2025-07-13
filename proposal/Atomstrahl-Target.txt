@@ -284,7 +284,14 @@ Literaturangaben:  (zu eigenen Vorarbeiten)
 [WAL88]  Wallis,H.,Ertmer,W.: submitted to Journal Phys.B.
  
 
+1.7	Ausführliche Beschreibung des Arbeitsplans:
 
- 
+Dieser Teil der Erläuterung des Vorhabens gliedert sich in die drei Teile a) experimentelle Methoden der Laser-Manipulation von Atomstrahlen, b) technische Realisierungsmöglichkeiten und c) Planung der vorgesehenen Experimente und des Aufbaues der Apparaturen.
+
+
+a) Experimentelle Methoden der Lasermanipulation von Atomstrahlen:
+
+to be continued
+
 
 
