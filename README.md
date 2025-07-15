@@ -1,15 +1,15 @@
 # COSY_internal-atomicbeam-target
 
 ## Proposal of IAP University of Bonn 
-Antrags-Proposal für BMFT-Förderantrag (Bundesministerium für Forschung - und Technologie)
-- internes Atomstrahltarget für das Speicher- und Kühlersynchrotron COSY (KFA Jülich)
+Antrags-Proposal für BMFT-Förderantrag (Bundesministerium für Forschung- und Technologie): 
+internes Atomstrahltarget für das Speicher- und Kühlersynchrotron COSY (KFA Jülich)
 - KFA = Kern-Forschungs-Anlage
 - Institut für Angewandte Physik (IAP) der Universität Bonn
 - https://www.iap.uni-bonn.de/en
 - https://de.wikipedia.org/wiki/Forschungszentrum_J%C3%BClich
 
 ## COSY - Cooler Synchrotron
-COSY (CO_oler SY_nchrotron): Der Beschleuniger am Standort Jülich in NRW
+COSY (CO_oler SY_nchrotron): Beschleuniger am Standort Jülich in NRW
 - https://www.fz-juelich.de/de/ikp/forschung/beschleuniger/cosy
 - https://www.fz-juelich.de/en/ikp/research/accelerators/cosy
 - https://www.helmholtz.de/forschung/forschungsinfrastrukturen/beschleuniger/cosy-cooler-synchrotron/
