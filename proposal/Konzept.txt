@@ -1,0 +1,88 @@
+Internes polarisiertes Atomstrahltarget für Kühlerspeicherring (COSY - Cooler Synchrotron in Jülich)
+Übersicht über Konstruktionskomponenten und auftretende Probleme:
+
+1.) Atomstrahl:
+* Maximale Intensität
+	- Düsenstrahl
+	- Multichannel oven
+	- effusiver Strahl (Ofen von Witteven)
+
+* Konfiguration
+	- Doppelkammer
+	- Recycling
+	- Gießkanne
+
+* Justage
+	- max. Intensität
+	- Standzeit (ca. 14 Tage)
+	- Austauschbarkeit
+
+* Elemente
+	- Alkalien (2-Kammerofen Witteven)
+
+2.) Vakuumsystem - Ofen: 
+* Blendensystem
+	- Heizung
+	- Material
+	- Justierbarkeit
+	- Abstände (je Zone ca. 20 cm)
+
+* Kühlfallen, Sümpfe
+* Differentielle Pumpstufen
+* Fenster für Laserstrahl
+* Beobachtungsfenster (Justage, Kontrolle)
+* Ventile, Vakuumdiagnostik
+* Pumpen
+	- Typ (Öldiff., Turbomolekular)
+	- Dimensionierung (erste Phase:  ca. 10-6 Torr)
+				   (zweite Phase: ca. 10-9 Torr)3.) Vakuumsystem - opt. Pumpregion:
+* Konfigurationen (mögliche Spinstellungen)
+* Spin-Drehungen (Magnetfelder, Führungsfelder)
+* Nachweis der Polarisation
+* Ventile, Vakuumdiagnostik
+* magn. Abschirmung  
+* Pumpen (Dimensionierung, Typ)
+
+4.) Vakuumsystem - Target:
+* Unser Feld
+* Fremdfelder   ---> Abschirmung
+* Einfluß auf Spin
+* Vakuumanforderungen
+* geometrische Randbedingungen am Target
+* geometrische Randbedingungen am Ring im Betrieb
+* geometrische Randbedingungen bei Wartungsarbeiten
+* Pumpen (Typ, Dim., Härtung, Abschirmung)
+
+5.) Vakuumsystem - Sumpf (hinter Target):
+* Sumpf 
+* Diagnostik
+* rad. Abschirmung
+
+6.) Elektronik, Elektrik, Überwachung:
+* Tiegel (Heizung)
+* Kühlung (Wasser, flüssiger Stickstoff)
+* Ventilsteuerung
+* Vakuumsystem (Pumpen, Druckmessung, Steuerung)
+* Magnetfelder
+* Photomultiplier
+* Polarisationsnachweis
+* Lasersteuerung
+* Gesamtsteuerung (PC-Meßwerterfassungssystem, IEEE-488)
+
+7.) Polarisation, Kollimation:
+* benötigte Laser bei versch. Elementen
+	- EOM
+	- HF
+* Standzeit, Leistung der Laser
+* Kollimation
+	- Laserleistungen
+	- 6-Pol Felder
+* Nachweis. (EOM - Scan 4 GHz)
+	- Eichgas
+	- Wavemeter & Referenzlaser
+	- Nachweisfeld = Führungsfeld (50 mT)
+
+8.) Allgemeines:
+* Aufstellungsmöglichkeiten
+* Transport
+* Bedienung (wann?, wo?)
