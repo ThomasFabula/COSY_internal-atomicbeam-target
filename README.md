@@ -6,6 +6,7 @@ Antrags-Proposal für BMFT-Förderantrag (Bundesministerium für Forschung - und
 - KFA = Kern-Forschungs-Anlage
 - Institut für Angewandte Physik (IAP) der Universität Bonn
 - https://www.iap.uni-bonn.de/en
+- https://de.wikipedia.org/wiki/Forschungszentrum_J%C3%BClich
 
 ## COSY - Cooler Synchrotron
 COSY (CO_oler SY_nchrotron): Der Beschleuniger am Standort Jülich in NRW
