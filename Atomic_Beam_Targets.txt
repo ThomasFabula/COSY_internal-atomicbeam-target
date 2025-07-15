@@ -1,0 +1,126 @@
+Atomic Beam Targets
+
+W. Ertmer
+Institut für Angewandte Physik der Universität Bonn
+Wegelerstr. 8,5300 Bonn 1
+
+
+Abstract
+
+New techniques for laser manipulation of atomic beams offer new possibilities for polarized internal atomic beam targets in storage rings. 
+The advantages and applications of these techniques for polarization and density increase of an atomic beam are discussed.
+
+Effusive Atomic Beams
+
+Basic limitations concerning target-thickness and luminosities for an effusive beam as an internal target arise from the relation between the 
+maximum vapour pressure and the corresponding dia- phragm in the atomic beam source [1]. For a realistic atomic beam apparatus with a length 
+of 50 cm, an oven orifice of 3 mm diameter and an apperture of 3 mm diameter at the target-zone, a target-thickness of about 109 atoms/cm2 
+could be reached, resulting in a luminisity  of 5*1026 cm-2s-1 with parameters given for the COSY-ring (N=3*1011 particles in the ring, a 
+revolution frequency of f=1.5*106 s-1) . Even using supersonic beams (density increase by a factor of about 10) or taking unrealistic large
+values for the oven-orifice combined with a very short apparatus will result in a low target-density. In addition problems may arise by the 
+fast consumption of the evaporated target material and vacuum-con-ditions.
+
+Manipulation of the Atomic Beam with Laser Light
+
+1.Polarization
+
+On the other hand the possibility of strong atomic orientation via optical pumping (electronic and nuclear polarization) seems to make the
+atomic beam nevertheless attractive for target use. Franzen and Emslie [2] showed that nearly 100% of atomic orientation in a Na atomic 
+vapour could be reached, using a single Na D-line.
+
+The level-scheme and pumping-diagram of 23Na in an external weak magnetic field shows that a two level system, necessary  for sufficient
+pumping cycles, can be prepared using the D2-line as a pumping-transition: the illumination of the atoms with circularly polarized laser
+light, tuned to the transition 2S1/2,F=2 -> 2P3/2, F'=3 will pump all the atoms into  the hyperfine-substate 2S1/2 (F=2,mF=2) which is 
+composed by the combination of mJ=+1/2 and mI=+3/2. So the optical pumping ends up in a nuclear polarization of nearly 100% . The nuclear 
+orientation can be chosen being longitudinal or transverse by the orientation of the external magnetic field and the polarization of the
+laser beam and can be switched rapidly by changing the polarization of the laser beam.
+
+But as the pumping transition  F=2 -> F'=3 is only seperated by 60 MHz from the transition (F=2 -> F'=2) this second transition will 
+be induced by the laser with a propability of about 1% . Thus the upper level  2S1/2,F=2 will be depleted to the non-resonant (æª¸1.7 GHz) 
+F=1 groundstate. So as a counter measure both groundstate hyperfine levels have to be pumped simultaneously by laser-transitions  
+(seperated by 1.712 GHz) to avoid losses in polarization. Generation of the second laser-frequency can be achieved by electrooptic 
+modulation techniques [3].
+
+Complete polarization of the Na-atoms can be reached with a few mW of laser power allready on a short interaction zone of typically 1 cm.
+So the interaction-zone can be placed anywhere in the apparatus. The orientation can be transferred from the interaction zone to the 
+target zone with the help of a weak external magnetic guiding field. Probing of the polarization can be done by probing the population
+in the different hyperfine sublevels by laser induced resonance fluorescence in a weak external magnetic field.      
+Examples for different operating polarized atom and ion sources are given in refs. [4] - [7]. 
+
+A problem concerning the degree of the polarization at the target zone might arise by interaction of protons (or ions) from the storage
+ring with inner shell electrons of the target atoms in the target beam changing  the nuclear orientation of the polarized atoms.   
+
+2.Collimation 
+
+For target use the density of the atomic beam has to be increased. A first gain in intensity (density) can be achieved by the collimation of 
+the diverging atomic beam at the crucible with the help of transverse, resonant laser beams (transverse cooling of the atomic beam) [8]. 
+This laserfield reduces the initial radial velocity of the emerging atoms considerably by photon momentum transfer, thus increasing the 
+initial angle of divergence which will contribute in the target zone. This is achieved -with respect to the unshifted resonance frequency- 
+by a slightly red shifted laser frequency. Thus the light will be tuned into resonance with radially counterpropagating atoms, decelerating 
+them towards the beam axis, if the atomic beam is irradiated perpendicularly by the laser light. This lightfield can be created by a cone-shaped 
+mirror [8]. 
+
+The maximum gain in density that can be achieved  by this method is mainly given by the radiation forces, the interaction length and the 
+diameter of the atomic beam defining diaphragm. 
+The collimation of the atomic beam ends up in an increase in target-thickness by a factor of about 400, compared with the example above for
+the non-manipulated atomic beam. Taking the same values for the length of the apparatus, the oven orifice and the apperture, this leads to a 
+target-thickness of nF=4.6*1011 atoms/cm2 of fully polarized atoms.
+
+3.Contraction
+
+A further increase in target thickness can be reached by an increase in density of the atomic beam by contraction in phase space. Again 
+this can be achieved by laser manipulation [9]. Focussing the laser light onto the atomic beam axis by a spherical mirror produces an e
+xtremely strong and inhomogeneous light field on the axis. As result the atoms are accelerated towards the high intensity region, the atomic 
+beam axis, by the dipole force [9], when the laser frequency is tuned properly to the red side of the absorption frequency. The resulting 
+oszillating motion is damped by additional transverse cooling, as explained above. Thus a contraction of the atomic beam depending on the 
+length of the interaction zone, the velocity of the atoms, the laser power and the beam waist can be reached. The principle limit of
+contraction in atomic beam diameter is given by Heisenbergs uncertainty principle between momentum and location resolution. 
+
+The contraction of the atomic beam may result in a further increase of target thickness by a factor of 3 to 10, depending on the 
+experimental situation. So a target-thickness of 1.5*1011 and 5*1012 atoms/cm2 respectively could be reached, taking the polarized atomic
+beam with collimation gain from the example above.	 
+
+4.Cooling
+
+If the resulting target density is still too low, there is the possibility of decelerating the atomic beam with the help of resonant, 
+counterpropagating laser light [10]. As the density is proportional to Þ/v, where Þ is the total (constant) flux produced by the oven 
+and v is the mean velocity of the atoms in the beam, the target thickness inreases with 1/v. 
+
+The deceleration is achieved by photon momentum transfer from a counterpropagating, resonant laser field to the atoms. In the case of 
+sodium the deceleration may become 0.9*108 cm/s2 or nearly 105 times the acceleration of gravity. 
+
+For this purpose two major experimental problems have to be solved: optical pumping and keeping the resonance condition for the fast 
+changing Dopplershift of the fast downslowing atoms ( e.g. 1GHz in 1ms for sodium atoms). Two new successful experimental methods have 
+been developed which overcome these [3,11,12] problems. 
+ 
+A density increase by a factor of 10 can be reached, if the atomic beam is decelerated by a factor of 10. As by-product a complete
+polarization of the atomic beam is directly achieved by using a circularly polarized laser beam.
+Suitable Elements for these Schemes
+
+The atomic level schemes, suitable for laser manipulation of atomic beams, and the wavelength region that is easily reached by dye 
+lasers today fa-vourate the alkalines. In these cases laser manipulation can be done with the help of dye-lasers (6,7Li,23Na,39K,85,87Rb,113Cs)
+or even diode-lasers (85,87Rb,113Cs). In addition it is no longer necessary that the laser is placed next to the apparatus. Optical fibers
+which are available today allow the laser light being transported over a distance of some ten meters without major losses. So the lasers
+can be placed in another room or even another building.
+
+Conclusions
+
+A target thickness for laser manipulated atomic beams between 1012 and 1014 atoms/cm2 seams to be feasable. A comparison of the 
+values above with the values given for other possible internal targets (cluster beams, fiber,...) shows that the laser-manipulated 
+atomic beam may be quite attractive as an internal target for COSY, especially as it is fully polarized.
+
+References
+
+[1]N.Ramsey, Molecular Beams (Oxford 1956)
+[2]W.Franzen, A.G.Emslie, Phys. Rev.108,1453(1957)
+[3]W.Ertmer,R.Blatt,J.Hall,M.Zhu, Phys. Rev. Lett.54,48(1985)
+[4]G.Baum,C.D.Caldwell,W.Schröder, Appl. Phys.21,121(1980)
+[5]L.W.Anderson,A.Nimmo, Phys. Rev. Lett.42,1520(1979)
+[6]W.Dreves,H.Jänsch,E.Koch,D.Fick, Phys. Rev. Lett.50,1759(1983)
+[7]L.W.Anderson,J.T.Cusma, AIP Conf. Proc.117,133(1983)
+[8]Russ. Lit. zum Kollimieren
+[9]K.Cloppenburg,W.Ertmer,G.Hennig,A.Mihm,J.Nellesen, to be published
+[10]A.Ashkin, Phys. Rev. Lett.
+[11]W.Phillips,H.Metcalf, Phys. Rev. Lett.48,596(1982)
+[11]-"-   "  Komprimieren
+[12]K.Cloppenburg,W.Ertmer,G.Hennig,A.Mihm,J.Nellesen, to be published
