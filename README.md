@@ -1,7 +1,7 @@
 # COSY_internal-atomicbeam-target
 
 ## Proposal of IAP University of Bonn 
-Antrags-Proposal für BMFT-Förderantrag 
+Antrags-Proposal für BMFT-Förderantrag (Bundesministerium für Forschung - und Technologie)
 - internes Atomstrahltarget für das Speicher- und Kühlersynchrotron COSY (KFA Jülich)
 - KFA = Kern-Forschungs-Anlage
 - Institut für Angewandte Physik (IAP) der Universität Bonn
